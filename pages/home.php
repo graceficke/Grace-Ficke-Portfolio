@@ -53,7 +53,7 @@
 										<img src="../images/photoseries1.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Photography Series</a></h3>
+										<h3><a href="/pages/templates/generic.php" class="link">Photography Series</a></h3>
 										<p>Photo Design</p>
 									</header>
 								</article>
