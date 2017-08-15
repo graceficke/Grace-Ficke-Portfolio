@@ -23,7 +23,7 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Hi, my name is Grace</h1>
+								<h1>Hi, my name is Grace.</h1>
 							</header>
 							<div class="content">
 								<p>I am an artist, designer, photographer, dreamer, and front-end developer.</p>
