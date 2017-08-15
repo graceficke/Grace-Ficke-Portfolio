@@ -1,7 +1,0 @@
-Sass help:
-
-What is sass?  Sass is a high level style language that compiles into CSS.
-
-How do I install sass tooling?  http://sass-lang.com/install
-
-how do I compile sass?  To be written...

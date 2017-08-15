@@ -5,41 +5,19 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>Grace Ficke Portfolio</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-	</head>
+    
+    <!-- Head -->
+    <?php include("../partials/head.php") ?>
 	<body>
 
 		<!-- Wrapper -->
 			<div id="wrapper">
 
 				<!-- Header -->
-					<header id="header" class="alt">
-						<a href="index.html" class="logo"><strong>Grace Ficke</strong> <span>513.505.2876</span></a>
-						<nav>
-							<a href="#menu">Menu</a>
-						</nav>
-					</header>
+                <?php include("../partials/header.php") ?>
 
 				<!-- Menu -->
-					<nav id="menu">
-						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="landing.html">Resume</a></li>
-						</ul>
-						<!--
-						<ul class="actions vertical">
-							<li><a href="#" class="button special fit">Get Started</a></li>
-							<li><a href="#" class="button fit">Log In</a></li>
-						</ul>
-						-->
-					</nav>
+                <?php include("../partials/menu.php") ?>
 
 				<!-- Banner -->
 					<section id="banner" class="major">
@@ -48,7 +26,7 @@
 								<h1>Hi, my name is Grace</h1>
 							</header>
 							<div class="content">
-								<p>I am an artist, designer, photographer, dreamer, and junior developer.</p>
+								<p>I am an artist, designer, photographer, dreamer, and front-end developer.</p>
 								<ul class="actions">
 									<li><a href="#one" class="button next scrolly">Get Started</a></li>
 								</ul>
@@ -63,7 +41,7 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="images/pic01.jpg" alt="" />
+										<img src="../images/pic01.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">Oriental Wok</a></h3>
@@ -72,7 +50,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/photoseries1.jpg" alt="" />
+										<img src="../images/photoseries1.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">Photography Series</a></h3>
@@ -81,7 +59,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/shelf1.jpg" alt="" />
+										<img src="../images/shelf1.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">Container Design</a></h3>
@@ -90,7 +68,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/lotr3.jpg" alt="" />
+										<img src="../images/lotr3.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">Storyboarding</a></h3>
@@ -99,7 +77,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/pic05.jpg" alt="" />
+										<img src="../images/pic05.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">H&amp;G's Honey Bees</a></h3>
@@ -108,7 +86,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/pic06.jpg" alt="" />
+										<img src="../images/pic06.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">Unkown Project</a></h3>
@@ -121,11 +99,11 @@
 							<section id="two">
 								<div class="inner">
 									<header class="major">
-										<h2>Massa libero</h2>
+										<h2>Hire me today!</h2>
 									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
 									<ul class="actions">
-										<li><a href="landing.html" class="button next">Get Started</a></li>
+										<li><a href="meta.html" class="button next">Get Started</a></li>
 									</ul>
 								</div>
 							</section>
@@ -184,31 +162,10 @@
 					</section>
 
 				<!-- Footer -->
-					<footer id="footer">
-						<div class="inner">
-							<ul class="icons">
-								<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-								<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							</ul>
-							<ul class="copyright">
-								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
-							</ul>
-						</div>
-					</footer>
+                <?php include("../partials/footer.php") ?>
 
 			</div>
-
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-
+		<?php include("../partials/scripts.php") ?>
 	</body>
 </html>
