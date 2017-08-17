@@ -26,7 +26,7 @@
 								<h1>The designer who does that, too.</h1>
 							</header>
 							<div class="content">
-								<p>Artist | Designer | Photographer | Front-End Developer</p>
+								<p> Design | Photography | Branding | Web Development </p>
 								<ul class="actions">
 									<li><a href="resume.php" class="button next">View my Resume</a></li>
 								</ul>
@@ -89,8 +89,8 @@
 										<img src="../images/pic06.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="#" class="link">Coming Soon &mdash; Under Construction</a></h3>
-										<p>Description</p>
+										<h3>Current Project</h3>
+										<p><a href="#" class="link">Coming Soon &mdash; Page Under Construction</a></p>
 									</header>
 								</article>
 							</section>

@@ -7,7 +7,7 @@
             <li><a href=https://www.linkedin.com/in/sarah-grace-ficke-852064139/ class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
         </ul>
         <ul class="copyright">
-            <li>&copy; Grace Ficke</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+            <li>&copy; <script>document.write((new Date).getYear())</script> Grace Ficke</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
         </ul>
     </div>
 </footer>
