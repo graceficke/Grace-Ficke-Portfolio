@@ -91,7 +91,7 @@
 									</span>
 									<header class="major">
 										<h3>Current Project</h3>
-										<p><a href="#" class="link">Coming Soon &mdash; Page Under Construction</a></p>
+										<p><a href="../pages/" class="link">Coming Soon &mdash; Page Under Construction</a></p>
 									</header>
 								</article>
 							</section>
@@ -100,7 +100,7 @@
 							<section id="two">
 								<div class="inner">
 									<header class="major">
-										<h2>Hire me today!</h2>
+										<h2>Hire Me Today!</h2>
 									</header>
 									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
 									<ul class="actions">
