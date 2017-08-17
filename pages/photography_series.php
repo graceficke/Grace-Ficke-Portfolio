@@ -28,13 +28,65 @@
                                 <header class="major">
                                     <h1>Photography Series</h1>
                                 </header>
-                                <span class="image main"><img src="../images/pic11.jpg" alt="" /></span>
                                 <article>
                                 <!-- Paste your copy here, Grace!  -Seth -->
                                     <p>Someday, this might hang in a museum.  For now, view it here.</p>
                                 </article>
                             </div>
                         </section>
+                        <section id="one" class="tiles">
+								<article>
+									<span class="image">
+										<img src="../images/pic01.jpg" alt="" />
+									</span>
+									
+								</article>
+								<article>
+									<span class="image">
+										<img src="../images/photoseries1.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="../pages/photography_series.php" class="link">Photography Series</a></h3>
+										<p>Photo Design</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="../images/shelf1.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="../pages/container_design.php" class="link">Container Design</a></h3>
+										<p>and construction</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="../images/lotr3.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="../pages/storyboarding.php" class="link">Storyboarding</a></h3>
+										<p>The Lord of the Rings</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="../images/pic05.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="../pages/honey.php" class="link">H&amp;G's Honey Bees</a></h3>
+										<p>Print Design</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="../images/pic06.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3>Current Project</h3>
+										<p><a href="../pages/" class="link">Coming Soon &mdash; Page Under Construction</a></p>
+									</header>
+								</article>
+							</section>
                         
                         <section id="two">
 								<div class="inner">

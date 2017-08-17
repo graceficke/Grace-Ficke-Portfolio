@@ -68,14 +68,14 @@
 											<p>Summer 2017 – Covington, Kentucky <br/>
 											Photography and Design intern shot madison’s portfolio headshots, designed employee handbook as well as sketching on projects for their clients, one of which includes the anual smelt fry paper show.</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
+												<li><a href="http://www.madisondesign.us/" class="button">Visit Page</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									<a href="http://studiogreen.co/" class="image">
+										<img src="../../images/sglogo.jpg" alt="" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -86,41 +86,46 @@
 												Design Intern worked on packaging design, lables, lots of theme boards, prodect concepting and brand stratagy.
 												http://studiogreen.co/</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
+												<li><a href="http://studiogreen.co/" class="button">Visit Page</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									<a class="image">
+										<img src="../../images/freelancelogos.jpg" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
 												<h3>Freelance</h3>
 											</header>
-											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<p>oriental wok, sloane men, P&amp;G, photographer, sports/portraits</p>
 											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
+												<li><a href="generic.html" class="button">Email Me Now</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/lotedalogo.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Loteda</h3>
+											</header>
+											<p>Summer 2016 – Kings Mills, Ohio <br/>
+											Loteda is an online consignment shop for children’s clothing. My role was to photograph and edit products for listing and advertising purposes, as well as troubleshooting website issues. </p>
+											<ul class="actions">
 											</ul>
 										</div>
 									</div>
 								</section>
 							</section>
 
-						<!-- Three -->
-							<section id="three">
-								<div class="inner">
-									<header class="major">
-										<h2>Loteda</h2>
-									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-									<ul class="actions">
-										<li><a href="generic.html" class="button next">Get Started</a></li>
-									</ul>
-								</div>
-							</section>
+						
                         
                         <!-- Four -->
 							<section id="one">
@@ -135,7 +140,7 @@
 							<section id="two" class="spotlights">
 								<section>
 									<a href="http://www.madisondesign.us/" class="image">
-										<img src="../../images/.jpg" alt="" data-position="center center" />
+										<img src="../../images/uclogo.jpg" alt="" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -152,7 +157,7 @@
 								</section>
 								<section>
 									<a href="generic.html" class="image">
-										<img src="images/pic09.jpg" alt="" data-position="top center" />
+										<img src="../../images/scadlogo.jpg" alt="" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -170,7 +175,7 @@
 								</section>
 								<section>
 									<a href="generic.html" class="image">
-										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/kingslogo.jpg" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -185,10 +190,6 @@
 									</div>
 								</section>
 							</section>
-
-					</div>
-                
-                 <!-- Six -->
 							<section id="one">
 								<div class="inner">
 									<header class="major">
@@ -197,6 +198,18 @@
 									</header>
 								</div>
 							</section>
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Awards</h2>
+                                        <p>Adobe Suite and more</p>
+									</header>
+								</div>
+							</section>
+					</div>
+                
+                 
+							
 
 				<section id="two">
 								<div class="inner">
