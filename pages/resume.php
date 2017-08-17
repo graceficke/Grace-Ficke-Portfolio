@@ -95,7 +95,7 @@
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Sed nunc ligula</h3>
+												<h3>Freelance</h3>
 											</header>
 											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 											<ul class="actions">
@@ -110,7 +110,7 @@
 							<section id="three">
 								<div class="inner">
 									<header class="major">
-										<h2>Massa libero</h2>
+										<h2>Loteda</h2>
 									</header>
 									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 									<ul class="actions">
@@ -118,8 +118,82 @@
 									</ul>
 								</div>
 							</section>
+                        
+                        <!-- Four -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Education</h2>
+									</header>
+								</div>
+							</section>
+                        
+                        <!-- Five -->
+							<section id="two" class="spotlights">
+								<section>
+									<a href="http://www.madisondesign.us/" class="image">
+										<img src="../../images/.jpg" alt="" data-position="center center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>University of Cincinnati</h3>
+											</header>
+											<p>Summer 2017 – Covington, Kentucky <br/>
+											Photography and Design intern shot madison’s portfolio headshots, designed employee handbook as well as sketching on projects for their clients, one of which includes the anual smelt fry paper show.</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Learn more</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Savannah College of Art and Design</h3>
+											</header>
+											<p>Summer 2017 – Cincinnati, Ohio
+												Design Intern worked on packaging design, lables, lots of theme boards, prodect concepting and brand stratagy.
+												http://studiogreen.co/</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Learn more</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="generic.html" class="image">
+										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Kings High School</h3>
+											</header>
+											<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Learn more</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+							</section>
 
 					</div>
+                
+                 <!-- Six -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Skills</h2>
+                                        <p>Adobe Suite and more</p>
+									</header>
+								</div>
+							</section>
 
 				<!-- Contact -->
 					<section id="contact">

@@ -1,3 +1,4 @@
+HEAD
 // Misc.
 	$misc: (
 		z-index-base:		10000
@@ -30,18 +31,19 @@
 
 // Palette.
 	$palette: (
-		bg:					#ebebeb,
-		bg-alt:				#ebebeb,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
+		bg:					#ff656b,
+		bg-alt:				#ff656b,
+		fg:					#ff656b,
+		fg-bold:			#ff656b,
 		fg-light:			rgba(244,244,255,0.2),
 		border:				rgba(212,212,255,0.1),
 		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
-		accent1:			#0000ff,
+		highlight:			#ff656b,
+		accent1:			#ff656b,
 		accent2:			#ff656b,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		accent3:			#ff656b,
+		accent4:			#ff656b,
+		accent5:			#ff656b,
+		accent6:			#ff656b
+
 	);

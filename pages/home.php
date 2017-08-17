@@ -26,7 +26,7 @@
 								<h1>Hi, my name is Grace.</h1>
 							</header>
 							<div class="content">
-								<p>I am an artist, designer, photographer, dreamer, and front-end developer.</p>
+								<p>Artist | Designer | Photographer | Front-End Developer</p>
 								<ul class="actions">
 									<li><a href="resume.php" class="button next">View my Resume</a></li>
 								</ul>
@@ -104,8 +104,8 @@
 									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
 									<ul class="actions">
                                         <li><a class="button" href="tel:5135150212">Call Now</a></li>
-                                        <li><a class="button" href="#">Send Email</a></li>
-										<li><a href="meta.html" class="button next">View My Resume</a></li>
+                                        <li><a class="button" href="mailto:sgficke@gmail.com">Send Email</a></li>
+										<li><a href="resume.php" class="button next">View My Resume</a></li>
 									</ul>
 								</div>
 							</section>
