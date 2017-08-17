@@ -14,12 +14,16 @@
 			<div id="wrapper">
 
 				<!-- Header -->
+<<<<<<< HEAD
 					<header id="header">
 						<a href="index.html" class="logo"><strong>Grace Ficke</strong> <span>513.505.2876</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
 					</header>
+=======
+                <?php include("../partials/header.php") ?>
+>>>>>>> bba3b215857a026ced80ad1da2b962a424f52c87
 
 				<!-- Menu -->
                 <?php include("../partials/menu.php") ?>
@@ -44,6 +48,7 @@
 				<!-- Main -->
 					<div id="main">
 
+<<<<<<< HEAD
 						<!-- One -->
 							<section id="one">
 								<div class="inner">
@@ -171,6 +176,23 @@
 							</section>
 						</div>
 					</section>
+=======
+                        <!-- One -->
+                        <section id="one">
+                            <div class="inner">
+                                <header class="major">
+                                    <h1>My Resume</h1>
+                                    <a href="../pdf/Creative%20Circle%20Resume.pdf">Download PDF</a>
+                                </header>
+                                <article>
+                                <!-- Paste your copy here, Grace!  -Seth -->
+                                    
+                                </article>
+                            </div>
+                        </section>
+
+                </div>
+>>>>>>> bba3b215857a026ced80ad1da2b962a424f52c87
 
 				<!-- Contact -->
 					<section id="contact">
