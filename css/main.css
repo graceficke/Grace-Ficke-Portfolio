@@ -1259,7 +1259,7 @@ body {
   html, body {
     min-width: 320px; } }
 body {
-  background: #fd5f5f; }
+  background: #FF656A; }
   body.is-loading *, body.is-loading *:before, body.is-loading *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -1598,7 +1598,7 @@ input[type="radio"] {
     background: #000000;
     border-color: #ffffff;
     content: '\f00c';
-    color: #fd5f5f; }
+    color: #FF656A; }
   input[type="checkbox"]:focus + label:before,
   input[type="radio"]:focus + label:before {
     box-shadow: 0 0 0 2px #ffffff; }
@@ -1657,7 +1657,7 @@ input[type="radio"] + label:before {
   .icon.alt:before {
     background-color: #000000;
     border-radius: 100%;
-    color: #fd5f5f;
+    color: #FF656A;
     display: inline-block;
     height: 2em;
     line-height: 2em;
@@ -1806,10 +1806,10 @@ ul {
         text-align: center; }
         ul.pagination li > .page.active {
           background-color: #000000;
-          color: #fd5f5f; }
+          color: #FF656A; }
           ul.pagination li > .page.active:hover {
             background-color: #ffffff;
-            color: #fd5f5f !important; }
+            color: #FF656A !important; }
           ul.pagination li > .page.active:active {
             background-color: #d9d9d9; }
       ul.pagination li:first-child {
@@ -2019,7 +2019,7 @@ button,
   .button.special {
     background-color: #000000;
     box-shadow: none;
-    color: #fd5f5f; }
+    color: #FF656A; }
     input[type="submit"].special:hover, input[type="submit"].special:active,
     input[type="reset"].special:hover,
     input[type="reset"].special:active,
@@ -2030,7 +2030,7 @@ button,
     .button.special:hover,
     .button.special:active {
       background-color: #ffffff;
-      color: #fd5f5f !important; }
+      color: #FF656A !important; }
     input[type="submit"].special:active,
     input[type="reset"].special:active,
     input[type="button"].special:active,
@@ -2122,7 +2122,7 @@ button,
       width: 100%;
       z-index: 2; }
     .tiles article:after {
-      background-color: rgba(253, 95, 95, 0.25);
+      background-color: rgba(255, 101, 106, 0.25);
       content: '';
       display: block;
       height: 100%;
@@ -2220,7 +2220,7 @@ button,
         display: block;
         width: 100%; }
       .spotlights > section > .image:before {
-        background: rgba(253, 95, 95, 0.9);
+        background: rgba(255, 101, 106, 0.9);
         content: '';
         display: block;
         height: 100%;
@@ -2345,7 +2345,7 @@ button,
       -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
       transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
       background-color: #000000;
-      color: #fd5f5f;
+      color: #FF656A;
       display: inline-block;
       line-height: 1.65em;
       margin-right: 0.325em;
@@ -2525,7 +2525,7 @@ button,
     -webkit-pointer-events: none;
     -ms-pointer-events: none;
     pointer-events: none;
-    background-color: #fd5f5f;
+    background-color: #FF656A;
     content: '';
     display: block;
     height: 100%;
@@ -2771,7 +2771,7 @@ button,
   -webkit-pointer-events: none;
   -ms-pointer-events: none;
   pointer-events: none;
-  background: rgba(253, 95, 95, 0.9);
+  background: rgba(255, 101, 106, 0.9);
   box-shadow: none;
   height: 100%;
   left: 0;
