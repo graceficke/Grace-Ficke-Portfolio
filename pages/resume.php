@@ -195,56 +195,19 @@
 								</div>
 							</section>
 
-				<!-- Contact -->
-					<section id="contact">
-						<div class="inner">
-							<section>
-								<form method="post" action="#">
-									<div class="field half first">
-										<label for="name">Name</label>
-										<input type="text" name="name" id="name" />
-									</div>
-									<div class="field half">
-										<label for="email">Email</label>
-										<input type="text" name="email" id="email" />
-									</div>
-									<div class="field">
-										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="6"></textarea>
-									</div>
+				<section id="two">
+								<div class="inner">
+									<header class="major">
+										<h2>Hire Me Today!</h2>
+									</header>
+									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
 									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="special" /></li>
-										<li><input type="reset" value="Clear" /></li>
+                                        <li><a class="button" href="tel:5135150212">Call Now</a></li>
+                                        <li><a class="button" href="mailto:sgficke@gmail.com">Send Email</a></li>
+										<li><a href="resume.php" class="button next">View My Resume</a></li>
 									</ul>
-								</form>
+								</div>
 							</section>
-							<section class="split">
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-envelope"></span>
-										<h3>Email</h3>
-										<a href="#">sgficke@gmail.com</a>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-phone"></span>
-										<h3>Phone</h3>
-										<span>(513) 505-2876</span>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-home"></span>
-										<h3>Address</h3>
-										<span>2444 Madison Rd. UNIT 1403<br />
-										Cincinnati, OH 45208<br />
-										United States of America</span>
-									</div>
-								</section>
-							</section>
-						</div>
-					</section>
 
 				
 				<!-- Footer -->

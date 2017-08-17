@@ -35,6 +35,20 @@
                                 </article>
                             </div>
                         </section>
+                        
+                        <section id="two">
+								<div class="inner">
+									<header class="major">
+										<h2>Hire Me Today!</h2>
+									</header>
+									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
+									<ul class="actions">
+                                        <li><a class="button" href="tel:5135150212">Call Now</a></li>
+                                        <li><a class="button" href="mailto:sgficke@gmail.com">Send Email</a></li>
+										<li><a href="resume.php" class="button next">View My Resume</a></li>
+									</ul>
+								</div>
+							</section>
 
                 </div>
 
