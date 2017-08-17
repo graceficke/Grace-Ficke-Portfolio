@@ -1,0 +1,17 @@
+Tasks:
+- Changing colors (5m) ()
+- Changing fonts
+- Content (grace)
+    - Photos
+    - Descriptions
+    - Resume
+    - Work on home page.
+- Unify footer/bottom content
+- Figure out #6 project
+- Photography
+- Link to PDF of resume
+- Figure out sass tooling (2h) (16sp)
+
+Blockers:
+- Sass tooling.
+
