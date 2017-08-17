@@ -9,7 +9,7 @@
             <li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
         </ul>
         <ul class="copyright">
-            <li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+            <li>&copy; Grace Ficke</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
         </ul>
     </div>
 </footer>

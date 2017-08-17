@@ -28,7 +28,7 @@
 							<div class="content">
 								<p>I am an artist, designer, photographer, dreamer, and front-end developer.</p>
 								<ul class="actions">
-									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+									<li><a href="resume.php" class="button next">View my Resume</a></li>
 								</ul>
 							</div>
 						</div>
@@ -44,7 +44,7 @@
 										<img src="../images/pic01.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Oriental Wok</a></h3>
+										<h3><a href="../pages/oriental_wok.php" class="link">Oriental Wok</a></h3>
 										<p>Print Design</p>
 									</header>
 								</article>
@@ -53,7 +53,7 @@
 										<img src="../images/photoseries1.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="/pages/templates/generic.php" class="link">Photography Series</a></h3>
+										<h3><a href="../pages/photography_series.php" class="link">Photography Series</a></h3>
 										<p>Photo Design</p>
 									</header>
 								</article>
@@ -62,7 +62,7 @@
 										<img src="../images/shelf1.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Container Design</a></h3>
+										<h3><a href="../pages/container_design.php" class="link">Container Design</a></h3>
 										<p>and construction</p>
 									</header>
 								</article>
@@ -71,7 +71,7 @@
 										<img src="../images/lotr3.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Storyboarding</a></h3>
+										<h3><a href="../pages/storyboarding.php" class="link">Storyboarding</a></h3>
 										<p>The Lord of the Rings</p>
 									</header>
 								</article>
@@ -80,7 +80,7 @@
 										<img src="../images/pic05.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">H&amp;G's Honey Bees</a></h3>
+										<h3><a href="../pages/honey.php" class="link">H&amp;G's Honey Bees</a></h3>
 										<p>Print Design</p>
 									</header>
 								</article>
@@ -89,7 +89,7 @@
 										<img src="../images/pic06.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Unkown Project</a></h3>
+										<h3><a href="#" class="link">Coming Soon &mdash; Under Construction</a></h3>
 										<p>Description</p>
 									</header>
 								</article>
@@ -103,15 +103,14 @@
 									</header>
 									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
 									<ul class="actions">
-										<li><a href="meta.html" class="button next">Get Started</a></li>
+                                        <li><a class="button" href="tel:5135150212">Call Now</a></li>
+                                        <li><a class="button" href="#">Send Email</a></li>
+										<li><a href="meta.html" class="button next">View My Resume</a></li>
 									</ul>
 								</div>
 							</section>
 
 					</div>
-
-				<!-- Contact -->
-                <?php include("../partials/contact.php") ?>
                 
 				<!-- Footer -->
                 <?php include("../partials/footer.php") ?>
