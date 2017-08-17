@@ -35,6 +35,9 @@
 								<p>sgficke@gmail.com<br />
 								513.505.2876</p>
 							</div>
+                            <div class="content">
+                                <a class="button" href="../pdf/Creative%20Circle%20Resume.pdf">Download PDF</a>
+                            </div>
 						</div>
 					</section>
 
