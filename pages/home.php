@@ -23,8 +23,7 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Hi, my name is Grace.</h1>
-                                <h2>I'm the designer who does that too!</h2>
+								<h1>The designer who does that, too.</h1>
 							</header>
 							<div class="content">
 								<p> Design | Photography | Branding | Web Development </p>
