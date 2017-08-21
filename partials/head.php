@@ -7,4 +7,5 @@
 		<link rel="stylesheet" href="../css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="../css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="../css/ie8.css" /><![endif]-->
+        <?php include("favicons.php") ?>
 	</head>
