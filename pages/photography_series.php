@@ -34,60 +34,80 @@
                                 </article>
                             </div>
                         </section>
-                        <section id="one" class="tiles">
-								<article>
-									<span class="image">
-										<img src="../images/pic01.jpg" alt="" />
-									</span>
-									
-								</article>
-								<article>
-									<span class="image">
-										<img src="../images/photoseries1.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="../pages/photography_series.php" class="link">Photography Series</a></h3>
-										<p>Photo Design</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="../images/shelf1.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="../pages/container_design.php" class="link">Container Design</a></h3>
-										<p>and construction</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="../images/lotr3.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="../pages/storyboarding.php" class="link">Storyboarding</a></h3>
-										<p>The Lord of the Rings</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="../images/pic05.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="../pages/honey.php" class="link">H&amp;G's Honey Bees</a></h3>
-										<p>Print Design</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="../images/pic06.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3>Current Project</h3>
-										<p><a href="../pages/" class="link">Coming Soon &mdash; Page Under Construction</a></p>
-									</header>
-								</article>
+                        <div id="main">
+
+
+						<!-- Two -->
+							<section id="two" class="spotlights">
+								<section>
+									<a href="http://www.madisondesign.us/" class="image">
+										<img src="../../images/mdlogo.jpg" alt="" data-position="center center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Madison Design</h3>
+											</header>
+											<p>Summer 2017 – Covington, Kentucky <br/>
+											Photography and Design intern shot madison’s portfolio headshots, designed employee handbook as well as sketching on projects for their clients, one of which includes the anual smelt fry paper show.</p>
+											<ul class="actions">
+												<li><a href="http://www.madisondesign.us/" class="button">Visit Page</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="http://studiogreen.co/" class="image">
+										<img src="../../images/sglogo.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Studio Green</h3>
+											</header>
+											<p>Summer 2017 – Cincinnati, Ohio
+												Design Intern worked on packaging design, lables, lots of theme boards, prodect concepting and brand stratagy.
+												http://studiogreen.co/</p>
+											<ul class="actions">
+												<li><a href="http://studiogreen.co/" class="button">Visit Page</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/freelancelogos.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Freelance</h3>
+											</header>
+											<p>oriental wok, sloane men, P&amp;G, photographer, sports/portraits</p>
+											<ul class="actions">
+												<li><a href="generic.html" class="button">Email Me Now</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/lotedalogo.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Loteda</h3>
+											</header>
+											<p>Summer 2016 – Kings Mills, Ohio <br/>
+											Loteda is an online consignment shop for children’s clothing. My role was to photograph and edit products for listing and advertising purposes, as well as troubleshooting website issues. </p>
+											<ul class="actions">
+											</ul>
+										</div>
+									</div>
+								</section>
 							</section>
-                        
+					</div>
                         <section id="two">
 								<div class="inner">
 									<header class="major">
