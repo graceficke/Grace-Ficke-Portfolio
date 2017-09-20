@@ -23,10 +23,9 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>The designer who does that, too.</h1>
+								<h1>Hi, my name is Grace.</h1>
 							</header>
 							<div class="content">
-								<p> Design | Photography | Branding | Web Development </p>
 								<ul class="actions">
 									<li><a href="resume.php" class="button next">View my Resume</a></li>
 								</ul>
@@ -41,74 +40,63 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="../images/pic01.jpg" alt="" />
+										<img src="../images/themba.png" alt="Mockup Image" />
 									</span>
 									<header class="major">
-										<h3><a href="../pages/oriental_wok.php" class="link">Oriental Wok</a></h3>
+										<h2><a href="../pages/lofty.php" class="link">Lofty</a></h2>
+										<p>Digital Design</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="../images/pointzappmockup.png" alt="Mockup Image" />
+									</span>
+									<header class="major">
+										<h2><a href="../pages/container_design.php" class="link">Pointz</a></h2>
+										<p>Digital Design</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="../images/owbusinesscardmockup2.jpg" alt="Oriental Wok" />
+									</span>
+									<header class="major">
+										<h2><a href="../pages/oriental_wok.php" class="link">Oriental Wok</a></h2>
 										<p>Print Design</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="../images/photoseries1.jpg" alt="" />
+										<img src="../images/pshero4.png" alt="Mockup Image" />
 									</span>
 									<header class="major">
-										<h3><a href="../pages/photography_series.php" class="link">Photography Series</a></h3>
-										<p>Photo Design</p>
+										<h2><a href="../pages/photography_series.php" class="link">H2O</a></h2>
+										<p>Photorgaphy</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="../images/shelf1.jpg" alt="" />
+										<img src="../images/ssslink.jpg" alt="Mockup Image" />
 									</span>
 									<header class="major">
-										<h3><a href="../pages/container_design.php" class="link">Container Design</a></h3>
-										<p>and construction</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="../images/lotr3.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="../pages/storyboarding.php" class="link">Storyboarding</a></h3>
-										<p>The Lord of the Rings</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="../images/pic05.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="../pages/honey.php" class="link">H&amp;G's Honey Bees</a></h3>
+										<h2><a href="../pages/sss.php" class="link">Stop Stealing Sheep</a></h2>
 										<p>Print Design</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="../images/pic06.jpg" alt="" />
+										<img src="../images/lotr.jpg" alt="Mockup Image" />
 									</span>
 									<header class="major">
-										<h3>Current Project</h3>
-										<p><a href="../pages/" class="link">Coming Soon &mdash; Page Under Construction</a></p>
+										<h2><a href="../pages/storyboarding.php" class="link"></a>Lord of the Rings</h2>
+										<p>Drawing</p>
 									</header>
+								</article>
 								</article>
 							</section>
 
 						<!-- Two -->
-							<section id="two">
-								<div class="inner">
-									<header class="major">
-										<h2>Hire Me Today!</h2>
-									</header>
-									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
-									<ul class="actions">
-                                        <li><a class="button" href="tel:5135150212">Call Now</a></li>
-                                        <li><a class="button" href="mailto:sgficke@gmail.com">Send Email</a></li>
-										<li><a href="resume.php" class="button next">View My Resume</a></li>
-									</ul>
-								</div>
-							</section>
+							
 
 					</div>
                 

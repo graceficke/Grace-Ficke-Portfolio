@@ -26,30 +26,31 @@
                         <section id="one">
                             <div class="inner">
                                 <header class="major">
-                                    <h1>Container Design</h1>
+                                    <h1>Pointz</h1>
                                 </header>
-                                <span class="image main"><img src="../images/pic11.jpg" alt="" /></span>
+                                <span class="image main"><img src="../images/pointzsitemockup.png" alt="Site Mockups" /></span>
                                 <article>
-                                <!-- Paste your copy here, Grace!  -Seth -->
-                                
+                                    <div class="inner">
+									
+									<p>Pointz is start-up company hoping to unlock brand loyalty. The majority of consumers are switchers, and brands spend heavily to plug the leaky bucket. Pointz lowers the cost of retention and acquisition and can turn switchers into loyalists. The Pointz team is just three of us, a marketer and engineer with an MBA from Duke, a Computer Science tech enthusiast who is a graduate of Hanover College, and myself. I work closely with both our developer and marketer creating a look and feel for the brand, refining the logo, and designing the app and website. </p>
+								</div>
                                 </article>
                             </div>
                         </section>
                         
-                        <section id="two">
-								<div class="inner">
-									<header class="major">
-										<h2>Hire Me Today!</h2>
-									</header>
-									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
-									<ul class="actions">
-                                        <li><a class="button" href="tel:5135150212">Call Now</a></li>
-                                        <li><a class="button" href="mailto:sgficke@gmail.com">Send Email</a></li>
-										<li><a href="resume.php" class="button next">View My Resume</a></li>
-									</ul>
-								</div>
-							</section>
+                    
 
+                        <div id="main">
+                        
+                        	<span class="image main"><img src="../images/pointzlogo4.jpg" alt="Pointz Logo Process" /></span>
+                        	<span class="image main"><img src="../images/pointzsitesketches4.jpg" alt="App Process" /></span>
+                        	<span class="image main"><img src="../images/pointzsiteprocess4.jpg" alt="Site Process" /></span>
+                        	<span class="image main"><img src="../images/pointzappmockup.png" alt="Pointz App Mockups" /></span>
+
+
+						
+					</div>
+                       
                 </div>
 
 				<!-- Footer -->

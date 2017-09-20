@@ -35,6 +35,7 @@
 			overflow: hidden;
 			position: relative;
 			width: 40%;
+			padding-left: 5%;
 
 			.image {
 				display: none;
@@ -47,7 +48,6 @@
 
 			h3 {
 				font-size: 1.75em;
-
 				a {
 					&:hover {
 						color: inherit !important;
@@ -72,14 +72,14 @@
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: .97;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
 			}
 
 			&:after {
-				background-color: transparentize(_palette(bg), 0.75);
+				background-color: transparentize(_palette(bg), 1);
 				content: '';
 				display: block;
 				height: 100%;
@@ -98,8 +98,7 @@
 
 			&.is-transitioning {
 				@include vendor('transform', 'scale(0.95)');
-				@include vendor('filter', 'blur(0.5em)');
-				opacity: 0;
+				opacity: .5;
 			}
 
 			&:nth-child(4n - 1),
@@ -141,15 +140,6 @@
 				&:before {
 					background-color: _palette(accent6);
 				}
-			}
-		}
-
-		@include breakpoint(large) {
-			article {
-				@include padding(4em, 3em);
-				height: 30vh;
-				max-height: 30em;
-				min-height: 20em;
 			}
 		}
 

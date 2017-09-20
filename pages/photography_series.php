@@ -30,97 +30,182 @@
                                 </header>
                                 <article>
                                 <!-- Paste your copy here, Grace!  -Seth -->
-                                    <p>Someday, this might hang in a museum.  For now, view it here.</p>
+                                    <div class="inner">
+									<span class="image main"><img src="../images/pshero3.png" alt="" /></span>
+									<p>This twelve-piece photography collection was inspired by color and texture. Each piece has a different take on colorful vegetables colliding with water in its various forms. The pieces feature water in it’s various forms, and also different colors of the subject matter. </p>
+							
+									<p>The goal of this series was to explore the ways water could interact with objects through experimental photography. I used a variety of techniques including high-speed photography, macro photography, pouring, melting, dripping, freezing, frosting, splashing, and steaming of the water. The fruits and vegetables used were, grapes, kiwi, kiwano melon, eggplant, raspberries, broccoli, tomatoes, bell and chili peppers, star fruit, cabbage, and pomegranates.</p>
+								</div>
                                 </article>
                             </div>
                         </section>
+                        
+                    
+
                         <div id="main">
 
 
 						<!-- Two -->
 							<section id="two" class="spotlights">
 								<section>
-									<a href="http://www.madisondesign.us/" class="image">
-										<img src="../../images/mdlogo.jpg" alt="" data-position="center center" />
+									<a class="image">
+										<img src="../../images/ps1.jpg" alt="" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Madison Design</h3>
+												<h3>Chili Waters</h3>
 											</header>
-											<p>Summer 2017 – Covington, Kentucky <br/>
-											Photography and Design intern shot madison’s portfolio headshots, designed employee handbook as well as sketching on projects for their clients, one of which includes the anual smelt fry paper show.</p>
-											<ul class="actions">
-												<li><a href="http://www.madisondesign.us/" class="button">Visit Page</a></li>
-											</ul>
+											<p>This piece was done with high speed underwater photography with Chili Peppers, and macro photography of a lemon slice.</p>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a href="http://studiogreen.co/" class="image">
-										<img src="../../images/sglogo.jpg" alt="" data-position="top center" />
+										<img src="../../images/ps2.jpg" alt="" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Studio Green</h3>
+												<h3>Falling Bells</h3>
 											</header>
-											<p>Summer 2017 – Cincinnati, Ohio
-												Design Intern worked on packaging design, lables, lots of theme boards, prodect concepting and brand stratagy.
-												http://studiogreen.co/</p>
-											<ul class="actions">
-												<li><a href="http://studiogreen.co/" class="button">Visit Page</a></li>
-											</ul>
+											<p>This photo was created with high speed underwater photography.</p>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/freelancelogos.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps3.jpg" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Freelance</h3>
+												<h3>Frost Berries</h3>
 											</header>
-											<p>oriental wok, sloane men, P&amp;G, photographer, sports/portraits</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Email Me Now</a></li>
-											</ul>
+											<p>For this shot, I froze raspberries until they started to form frost droplets, then shot them with a macro lens before compiling the composition.</p>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/lotedalogo.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps4.jpg" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Loteda</h3>
+												<h3>Kiwano Melon</h3>
 											</header>
-											<p>Summer 2016 – Kings Mills, Ohio <br/>
-											Loteda is an online consignment shop for children’s clothing. My role was to photograph and edit products for listing and advertising purposes, as well as troubleshooting website issues. </p>
-											<ul class="actions">
-											</ul>
+											<p>This Kiwano Melon was frozen in a brick of ice, then put over a tea kettle where the steam melted the ice and drips begin to form on the melon’s spikes. The background is the inside of the Kiwano Melon.</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/ps5.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Broccoli Colliding </h3>
+											</header>
+											<p>Broccoli was shot with high speed underwater photography, and the background is the Kiwano melon.</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/ps6.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Tomato Drops</h3>
+											</header>
+											<p>This is a green tomato under dripping water shot with a macro lens.</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/ps7.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Purple Stream </h3>
+											</header>
+											<p>Eggplant with a stream of water bringing color into the vegetables.</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/ps8.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Frozen Grapes</h3>
+											</header>
+											<p>I got these grapes all wet before freezing them until frosty. Next, I poured water over them to bring the rich red color back into the photograph.
+											</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/ps9.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Cabbage Cubes</h3>
+											</header>
+											<p>I approached this piece in the opposite way I approached the grapes, pulling the color out with the water upon pour.</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/ps10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Underwater Stars</h3>
+											</header>
+											<p>Star fruit was photographed while pouring water into the scene from a more usual perspective for a different angle to this series.</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="../../images/ps11.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Pomegranate Splash</h3>
+											</header>
+											<p>Underwater high speed photography with broccoli in the background.</p>
+										</div>
+									</div>
+								</section><section>
+									<a class="image">
+										<img src="../../images/ps12.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Kiwi Slices</h3>
+											</header>
+											<p>Frozen slices of kiwi shot with a macro lens.</p>
 										</div>
 									</div>
 								</section>
 							</section>
 					</div>
-                        <section id="two">
-								<div class="inner">
-									<header class="major">
-										<h2>Hire Me Today!</h2>
-									</header>
-									<p>Let your branding and marketing stress wash away &mdash; when you hire me, you get [insert qualities here].</p>
-									<ul class="actions">
-                                        <li><a class="button" href="tel:5135150212">Call Now</a></li>
-                                        <li><a class="button" href="mailto:sgficke@gmail.com">Send Email</a></li>
-										<li><a href="resume.php" class="button next">View My Resume</a></li>
-									</ul>
-								</div>
-							</section>
+                       
 
                 </div>
 
