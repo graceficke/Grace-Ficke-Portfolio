@@ -46,6 +46,19 @@
 				width: calc(100% - 3em);
 			}
 		}
+		.inner2 {
+			padding-bottom: 10px;
+			text-align: center;
+			margin: 0 auto;
+			max-width: _size(inner);
+			width: calc(100% - 6em);
+
+			@include breakpoint(small) {
+				padding-bottom: 10px;
+				text-align: center;
+				width: calc(100% - 3em);
+			}
+		}
 	}
 
 // Base.

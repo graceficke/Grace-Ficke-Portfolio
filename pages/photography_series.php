@@ -49,7 +49,7 @@
 							<section id="two" class="spotlights">
 								<section>
 									<a class="image">
-										<img src="../../images/ps1.jpg" alt="" data-position="center center" />
+										<img src="../../images/ps1.png" alt="" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -62,7 +62,7 @@
 								</section>
 								<section>
 									<a href="http://studiogreen.co/" class="image">
-										<img src="../../images/ps2.jpg" alt="" data-position="top center" />
+										<img src="../../images/ps2.png" alt="" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -75,7 +75,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps3.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps3.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -88,7 +88,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps4.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps4.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -101,7 +101,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps5.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps5.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -114,7 +114,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps6.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps6.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -127,7 +127,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps7.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps7.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -140,7 +140,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps8.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps8.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -154,7 +154,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps9.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps9.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -167,7 +167,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps10.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps10.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -180,7 +180,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/ps11.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps11.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -192,7 +192,7 @@
 									</div>
 								</section><section>
 									<a class="image">
-										<img src="../../images/ps12.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/ps12.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">

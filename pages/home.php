@@ -40,16 +40,16 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="../images/themba.png" alt="Mockup Image" />
+										<img src="../images/g2.png" alt="Mockup Image" />
 									</span>
 									<header class="major">
-										<h2><a href="../pages/lofty.php" class="link">Lofty</a></h2>
+										<h2><a href="../pages/lofty.php" class="link">Themba</a></h2>
 										<p>Digital Design</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="../images/pointzappmockup.png" alt="Mockup Image" />
+										<img src="../images/g1.png" alt="Mockup Image" />
 									</span>
 									<header class="major">
 										<h2><a href="../pages/container_design.php" class="link">Pointz</a></h2>
@@ -58,7 +58,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="../images/owbusinesscardmockup2.jpg" alt="Oriental Wok" />
+										<img src="../images/g3.png" alt="Oriental Wok" />
 									</span>
 									<header class="major">
 										<h2><a href="../pages/oriental_wok.php" class="link">Oriental Wok</a></h2>
@@ -67,7 +67,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="../images/pshero4.png" alt="Mockup Image" />
+										<img src="../images/g4.png" alt="Mockup Image" />
 									</span>
 									<header class="major">
 										<h2><a href="../pages/photography_series.php" class="link">H2O</a></h2>
@@ -76,7 +76,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="../images/ssslink.jpg" alt="Mockup Image" />
+										<img src="../images/g5.png" alt="Mockup Image" />
 									</span>
 									<header class="major">
 										<h2><a href="../pages/sss.php" class="link">Stop Stealing Sheep</a></h2>
@@ -85,7 +85,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="../images/lotr.jpg" alt="Mockup Image" />
+										<img src="../images/g6.png" alt="Mockup Image" />
 									</span>
 									<header class="major">
 										<h2><a href="../pages/storyboarding.php" class="link"></a>Lord of the Rings</h2>

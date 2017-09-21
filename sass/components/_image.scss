@@ -59,4 +59,18 @@
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
+		&.main2 {
+			display: block;
+			margin-top:4%;
+			margin-bottom: 0%;
+			width: 100%;
+
+			img {
+				width: 100%;
+			}
+
+			@include breakpoint(small) {
+				margin: (_size(element-margin) * 0.75) 0;
+			}
+		}
 	}

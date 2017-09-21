@@ -54,14 +54,14 @@
 							<section id="two" class="spotlights">
 								<section>
 									<a href="http://studiogreen.co/" target="_blank" class="image">
-										<img src="../../images/sglogo2.jpg" alt="" data-position="top center" />
+										<img src="../../images/sglogo.png" alt="" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
 												<h3>Graphic Design Intern </h3>
 											</header>
-											<p>Summer 2017 – Cincinnati, Ohio
+											<p>Summer 2017 – Cincinnati, Ohio <br>
 												Built theme boards and social media mockups for new brands. Sketched and designed label layouts. Worked with a team to build prototypes for product testing.</p>
 											<ul class="actions">
 												<li><a target="_blank" href="http://studiogreen.co/" class="button">Visit Page</a></li>
@@ -71,14 +71,14 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/freelancelogos2.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/freelancelogos.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
 											<header class="major">
 												<h3>Freelance</h3>
 											</header>
-											<p>Conceptulized and designed Oriental Wok’s to-go menu, catering menu, business cards and table tents.  Branding and design for startups Lofty, Snug, Pointz, and Amplify. Designed “made in Los Angeles” logo and web graphics for a size and color chart for Sloane Men. Hand painted prototypes for P&G’s Laundry Care.  Photographed senior and family portraits, as well as sports photography for the Kings High School Football team.</p>
+											<p>Conceptulized and designed Oriental Wok’s to-go menu, catering menu, business cards and table tents.  Branding and design for startups Lofty, Snug, Pointz, and Amplify. Designed “made in Los Angeles” logo and web graphics for a size and color chart for Sloane Men. Hand painted prototypes for P&amp;G’s Laundry Care.  Photographed senior and family portraits, as well as sports photography for the Kings High School Football team.</p>
 											<ul class="actions">
 											<a class="button" href="mailto:sgficke@gmail.com">Email Me Now</a>
 											</ul>
@@ -87,7 +87,7 @@
 								</section>
 								<section>
 									<a href="http://www.madisondesign.us/" target="_blank" class="image">
-										<img src="../../images/mdlogo2.jpg" alt="" data-position="center center" />
+										<img src="../../images/mdlogo.png" alt="" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -104,7 +104,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="../../images/lotedalogo2.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/lotedalogo.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -135,7 +135,7 @@
 							<section id="two" class="spotlights">
 								<section>
 									<a href="http://www.uc.edu/" target="_blank" class="image">
-										<img src="../../images/uclogo3.jpg" alt="" data-position="center center" />
+										<img src="../../images/uclogo.png" alt="" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -149,7 +149,7 @@
 								</section>
 								<section>
 									<a href="https://www.scad.edu/" target="_blank" class="image">
-										<img src="../../images/scadlogo3.jpg" alt="" data-position="top center" />
+										<img src="../../images/scadlogo.png" alt="" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -163,7 +163,7 @@
 								</section>
 								<section>
 									<a href="http://www.kingslocal.net/" target="_blank" class="image">
-										<img src="../../images/kingslogo3.jpg" alt="" data-position="25% 25%" />
+										<img src="../../images/kingslogo.png" alt="" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">

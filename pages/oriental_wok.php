@@ -28,7 +28,7 @@
                                 <header class="major">
                                     <h1>Oriental Wok</h1>
                                 </header>
-                                 <span class="image main"><img src="../images/owhero.png" alt="Cool curved shelf" /></span>
+                                 <span class="image main"><img src="../images/ow1.png" alt="Oriantal Wok Menu" /></span>
                                 <article>
                                 <!-- Paste your copy here, Grace!  -Seth -->
                                     <div class="inner">
@@ -39,126 +39,26 @@
                                 </article>
                             </div>
                         </section>
+                        <span class="image main2"><img src="../images/ow2.png" alt="Oriantal Wok Theme Baord" /></span>
+                        <div class="inner2">
+                        <p>Collection of images from the Resturant to capture the mood, other menu inspiration and sketches.</p>
+                        </div>
+                        <span class="image main2"><img src="../images/ow3.png" alt="Menu Process" /></span>
+                        <div class="inner2">
+                        <p>Throughout the design process these are some sapshots over time how this design evolved.</p>
+                        </div>
+                        <span class="image main2"><img src="../images/ow4.png" alt="Final Menu" /></span>
+                        <span class="image main2"><img src="../images/ow5.png" alt="Detail" /></span>
+                        <span class="image main2"><img src="../images/ow6.png" alt="Business Cards" /></span>
+                        <span class="image main2"><img src="../images/ow7.png" alt="Pride Day Logo" /></span>
+                        <div class="inner2">
+                        <p>Oriental Wok logo for Pride Day, some inspiration I had used as well as itterations of the logo.</p>
+                        </div>
+                        <span class="image main2"><img src="../images/ow8.png" alt="Specials Menu" /></span>
+                        <div class="inner2">
+                        <p>Specials menu template for a guest chef that would be printed onsite.</p>
+                        </div>
                         
-                    
-
-                        <div id="main">
-
-
-						<!-- Two -->
-							<section id="two" class="spotlights">
-								<section>
-									<a class="image">
-										<img src="../../images/shelf1.png" alt="" data-position="center center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Theme Board</h3>
-											</header>
-											<p>Summer 2017 – Covington, Kentucky <br/>
-											Photography and Design intern shot madison’s portfolio headshots, designed employee handbook as well as sketching on projects for their clients, one of which includes the anual smelt fry paper show.</p>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="http://www.orientalwok.com/" class="image">
-										<img src="../../images/shelf2.png" alt="" data-position="top center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Menu Concepting</h3>
-											</header>
-											<p>Summer 2017 – Cincinnati, Ohio
-												Design Intern worked on packaging design, lables, lots of theme boards, prodect concepting and brand stratagy.
-												http://studiogreen.co/</p>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a class="image">
-										<img src="../../images/shelf3.png" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Menu Process</h3>
-											</header>
-											<p>oriental wok, sloane men, P&amp;G, photographer, sports/portraits</p>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a class="image">
-										<img src="../../images/owtogomenu1.jpg" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>To Go Menu Final</h3>
-											</header>
-											<p>oriental wok, sloane men, P&amp;G, photographer, sports/portraits</p>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a class="image">
-										<img src="../../images/owtogomenu2.jpg" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>To Go Menu Final</h3>
-											</header>
-											<p>oriental wok, sloane men, P&amp;G, photographer, sports/portraits</p>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a class="image">
-										<img src="../../images/shelf5.png" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Table Tents</h3>
-											</header>
-											<p>oriental wok, sloane men, P&amp;G, photographer, sports/portraits</p>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a class="image">
-										<img src="../../images/shelf7.png" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Stationary</h3>
-											</header>
-											<p>oriental wok, sloane men, P&amp;G, photographer, sports/portraits</p>
-										</div>
-									</div>
-								</section>
-                      			<section>
-									<a class="image">
-										<img src="../../images/owbusinesscardmockup.jpg" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Business Cards</h3>
-											</header>
-											<p>The final chosen design was based off the layout of the To Go menus. The background is a photo of the resuraunt, just like the menus as well. I did ten versions of this for different resurant staff. Theses are currently being used by Oriental Wok.</p>
-										</div>
-									</div>
-								</section>
-                        
-                        
-
-                </div>
-
 				<!-- Footer -->
                 <?php include("../partials/footer.php") ?>
 

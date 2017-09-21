@@ -34,7 +34,7 @@
                                     <div class="inner">
 									
 									<p>Themba is start-up company hoping to make transferring earnest money as easy as a text. Purchasing a property can be a lengthy and frustrating process for all parties involved, Themba hopes to create a seamless and secure connection between the buyers, realtors, and brokers. 
-									The Themba team is just four of us, a marketer and engineer with an MBA from Duke, a Computer Science tech enthusiast who is a graduate of Hanover College, a swift developer, and myself. I work closely with both our developers and marketer creating a look and feel for the brand designing the logo, app, and website.
+									The Themba team is just four of us, a marketer and engineer with an MBA from Duke, a Computer Science tech enthusiast who is a graduate of Hanover College, and myself. I work closely with both our developer and marketer creating a look and feel for the brand designing the logo, app, and website.
 									</p>
 								</div>
                                 </article>
@@ -46,9 +46,9 @@
                         <div id="main">
 
 
-							<span class="image main"><img src="../images/thembalogo4.jpg" alt="Logo Process" /></span>
-                        	<span class="image main"><img src="../images/thembasitesketches4.jpg" alt="Site Process" /></span>
-                        	<span class="image main"><img src="../images/thembasiteprocess4.jpg" alt="App Process" /></span>
+							<span class="image main"><img src="../images/themba1.png" alt="Logo Process" /></span>
+                        	<span class="image main"><img src="../images/themba2.png" alt="Site Process" /></span>
+                        	<span class="image main"><img src="../images/themba3.png" alt="App Process" /></span>
                         	<span class="image main"><img src="../images/thembaappmockup.png" alt="Cool curved shelf" /></span>
                         	<article>
                                     <div class="inner">

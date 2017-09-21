@@ -42,9 +42,9 @@
 
                         <div id="main">
                         
-                        	<span class="image main"><img src="../images/pointzlogo4.jpg" alt="Pointz Logo Process" /></span>
-                        	<span class="image main"><img src="../images/pointzsitesketches4.jpg" alt="App Process" /></span>
-                        	<span class="image main"><img src="../images/pointzsiteprocess4.jpg" alt="Site Process" /></span>
+                        	<span class="image main"><img src="../images/pointz1.png" alt="Pointz Logo Process" /></span>
+                        	<span class="image main"><img src="../images/pointz2.png" alt="App Process" /></span>
+                        	<span class="image main"><img src="../images/pointz3.png" alt="Site Process" /></span>
                         	<span class="image main"><img src="../images/pointzappmockup.png" alt="Pointz App Mockups" /></span>
 
 

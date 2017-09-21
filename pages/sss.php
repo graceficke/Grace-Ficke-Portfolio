@@ -46,7 +46,10 @@
 
 						    <span class="image main"><img src="../images/sss1.png" alt="Typography Book Design" /></span>
                         	<span class="image main"><img src="../images/sss2.png" alt="Typography Book Design" /></span>
-                        	<span class="image main"><img src="../images/pointzappmockup.png" alt="Pointz App Mockups" /></span>
+                        	<a href="http://homepages.uc.edu/~fickesg/typography/" target="_blank"><span class="image main"><img src="../images/ssswebsite.png" alt="Web Book Design" /></span></a>
+                        	<div class="inner2">
+									<p>Web version of the book.</p>
+								</div>
                         
                       
                 </div>
