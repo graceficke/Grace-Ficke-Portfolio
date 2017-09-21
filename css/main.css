@@ -2140,9 +2140,7 @@ button,
       -ms-transform: scale(0.95);
       transform: scale(0.95);
       opacity: .5; }
-    .tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
-      width: 60%; }
-    .tiles article:nth-child(6n - 5):before {
+    .tiles article:nth-child(4n - 1):before, .tiles article:nth-child(6n - 5):before {
       background-color: #ffffff; }
     .tiles article:nth-child(6n - 4):before {
       background-color: #ffffff; }
